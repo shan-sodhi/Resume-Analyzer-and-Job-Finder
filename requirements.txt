@@ -1,0 +1,9 @@
+streamlit
+google-generativeai
+PyPDF2
+pandas
+numpy
+streamlit-option-menu
+streamlit-extras
+selenium
+webdriver-manager
